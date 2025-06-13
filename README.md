@@ -82,6 +82,7 @@ The project models a **product mix optimization** problem where a company needs 
 
 📈 Sample Output
 
+![Image](https://github.com/user-attachments/assets/7c22d06b-7a64-4b1b-8f99-406544729e98)
 
 ---
 
