@@ -1,4 +1,4 @@
-# OPTIMIZATION MODEL
+# 🧠 OPTIMIZATION MODEL
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# 🧠 Optimization Model using Linear Programming
+
 
 This repository demonstrates how to solve a real-world business problem using **Linear Programming (LP)** and **Python’s PuLP library**. 
 The goal is to formulate and optimize a decision-making model to maximize profit (or minimize cost) under given constraints.
@@ -52,18 +52,19 @@ The project models a **product mix optimization** problem where a company needs 
 
 1. Clone the repository:
    
-   git clone https://github.com/Shikhasinghtjp/Optimization_Model.git
-   cd Optimization_Model
+         git clone https://github.com/Shikhasinghtjp/Optimization_Model.git
    
-2. Install dependencies:
-
-   pip install pulp pandas matplotlib openpyxl
-
-3. Run the model:
-
-   python optimization_model.py
+         cd Optimization_Model
    
-4. Check the output:
+3. Install dependencies:
+
+         pip install pulp pandas matplotlib openpyxl
+
+4. Run the model:
+
+         python optimization_model.py
+   
+5. Check the output:
 
    Results: solution_output.xlsx
 
