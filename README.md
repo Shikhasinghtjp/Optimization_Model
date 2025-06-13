@@ -1,3 +1,17 @@
+# OPTIMIZATION MODEL
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SHIKHA SINGH JAYANTI PRASAD THAKUR
+
+*INTERN ID*: CT04DN874
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 weeks
+
+*MENTOR*: NEELA SANTOSH
+
 # 🧠 Optimization Model using Linear Programming
 
 This repository demonstrates how to solve a real-world business problem using **Linear Programming (LP)** and **Python’s PuLP library**. 
@@ -21,19 +35,6 @@ The project models a **product mix optimization** problem where a company needs 
 - Resource availability (e.g., labor, materials)
 - Production time constraints
 - Market demand limits
-
----
-
-## 📂 Project Structure
-
-Optimization_Model/
-
-├── optimization_model.py # Main LP model using PuLP
-├── data.xlsx # Input data for resources, profit, constraints
-├── solution_output.xlsx # Model results saved in Excel
-├── feasible_region_plot.png # Visualization of constraints and feasible region
-└── README.md # Project overview
-
 
 ---
 
